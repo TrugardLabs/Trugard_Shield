@@ -1,10 +1,10 @@
 {
   "name": "snap",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Trugard Shield - Protect your wallet from phishing attacks",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TrugardLabs/Trugard_Shield"
+    "url": "git+https://github.com/TrugardLabs/Trugard_Shield.git"
   },
   "license": "All Rights reserved to TrugardLabs",
   "main": "./dist/bundle.js",

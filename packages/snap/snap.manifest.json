@@ -1,13 +1,13 @@
 {
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Trugard Labs Shield.",
-  "proposedName": "TrugardLabs SHIELD",
+  "proposedName": "TrugardLabs Shield",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+    "url": "git+https://github.com/TrugardLabs/Trugard_Shield.git"
   },
   "source": {
-    "shasum": "slvJilPa5FZiEBSejxPbCIu2BKSq0LLpLbIyyiS77rQ=",
+    "shasum": "FDQ9ChkbCDPfx6Fqy/ss9+5tPumytB9PBChqkn3lHEY=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
